@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtARKxJ83cyBYnpRoPhDAoT0a7s/S352ZA4ReiU+1hm85qqHBMHEegJstIFhhRx5Tr4XbWrfDYCDo9OEjiRJxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\FilteringService\\FilteringService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\csharpfunctionalextensions\\3.6.0\\csharpfunctionalextensions.3.6.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\f23.stringsimilarity\\6.0.0\\f23.stringsimilarity.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
